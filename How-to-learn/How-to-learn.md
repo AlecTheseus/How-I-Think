@@ -508,3 +508,4 @@ $$\int_{a}^{b} f(x) \, dx$$
 
 _Last updated: 2026-07-20_
 _Version: V1.0_
+作者： 邹金珂

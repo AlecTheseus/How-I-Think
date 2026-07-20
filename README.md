@@ -1,6 +1,8 @@
 # How-I-Think
 
 > Cognitive toolkit distilled from years of reading, thinking, and hands-on practice.
+>
+> 从多年阅读、思考和实践中提炼出的认知工具包。
 
 ## Introduction | 项目介绍
 
@@ -18,10 +20,9 @@ The goal is simple: to transform vague intuition into precise, actionable system
 
 ## Articles | 文章列表
 
-| Article | Description | Language |
-|---------|-------------|----------|
-| [How to Learn: A Modular Learning Engine](How-to-learn/How-to-learn.md) | A systematic approach to conscious learning using 3W decomposition + Feynman validation loop | Chinese |
-| [How to Learn: A Modular Learning Engine](How-to-learn/How-to-learn.en.md) | A systematic approach to conscious learning using 3W decomposition + Feynman validation loop | English |
+| Article | Description | Links |
+|---------|-------------|-------|
+| **How to Learn: A Modular Learning Engine**<br>**如何学习：模块化学习引擎** | A systematic approach to conscious learning using 3W decomposition + Feynman validation loop.<br>使用 3W 拆解法 + 费曼验证闭环的系统化学习方法。 | [中文](How-to-learn/How-to-learn.md) / [English](How-to-learn/How-to-learn.en.md) |
 
 ---
 
@@ -36,6 +37,19 @@ The articles in this repository share a common approach:
 
 ---
 
+本仓库中的文章都遵循统一的方法论：
+
+- **What** → 精确定义概念
+- **How** → 理解其机制（输入 → 输出）
+- **Why it works** → 揭示因果链（手段 → 目的）
+- **Validation** → 通过费曼技巧进行外部验证
+
+---
+
 ## License | 许可证
 
-MIT License ZouJinke
+MIT License
+
+---
+
+MIT 许可证

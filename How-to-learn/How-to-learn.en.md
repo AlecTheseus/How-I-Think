@@ -511,3 +511,4 @@ The final output of this process is: **You not only learn the content of calculu
 
 _Last updated: 2026-07-20_
 _Version: V1.0_
+_AAuthor: Zou Jinke_
