@@ -23,27 +23,7 @@ The goal is simple: to transform vague intuition into precise, actionable system
 | Article | Description | Links |
 |---------|-------------|-------|
 | **How to Learn: A Modular Learning Engine**<br>**如何学习：模块化学习引擎** | A systematic approach to conscious learning using 3W decomposition + Feynman validation loop.<br>使用 3W 拆解法 + 费曼验证闭环的系统化学习方法。 | [中文](How-to-learn/How-to-learn.md) / [English](How-to-learn/How-to-learn.en.md) |
-
----
-
-## Core Methodology | 核心方法论
-
-The articles in this repository share a common approach:
-
-- **What** → Define the concept precisely
-- **How** → Understand its mechanism (Input → Output)
-- **Why it works** → Uncover the causal chain (Means → Ends)
-- **Validation** → External verification through Feynman technique
-
----
-
-本仓库中的文章都遵循统一的方法论：
-
-- **What** → 精确定义概念
-- **How** → 理解其机制（输入 → 输出）
-- **Why it works** → 揭示因果链（手段 → 目的）
-- **Validation** → 通过费曼技巧进行外部验证
-
+| **The Inverted Civilization: The True Engine of Human Progress Has Never Been "Science"**<br>**被倒置的文明：人类进步的真正引擎，从来不是“科学”** | A critique of knowledge production: why practice precedes theory, production drives science, and academia has systematically undervalued the "soil" of human knowledge.<br>对知识生产方式的批判：为什么实践先于理论、生产驱动科学，以及学术界如何系统性低估了知识的“泥土”。 | [中文](The-Inverted-Civilization/The-Inverted-Civilization.md) |
 ---
 
 ## License | 许可证
