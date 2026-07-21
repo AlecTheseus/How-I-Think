@@ -23,7 +23,7 @@ The goal is simple: to transform vague intuition into precise, actionable system
 | Article | Description | Links |
 |---------|-------------|-------|
 | **How to Learn: A Modular Learning Engine**<br>**如何学习：模块化学习引擎** | A systematic approach to conscious learning using 3W decomposition + Feynman validation loop.<br>使用 3W 拆解法 + 费曼验证闭环的系统化学习方法。 | [中文](How-to-learn/How-to-learn.md) / [English](How-to-learn/How-to-learn.en.md) |
-| **The Inverted Civilization: The True Engine of Human Progress Has Never Been "Science"**<br>**被倒置的文明：人类进步的真正引擎，从来不是“科学”** | A critique of knowledge production: why practice precedes theory, production drives science, and academia has systematically undervalued the "soil" of human knowledge.<br>对知识生产方式的批判：为什么实践先于理论、生产驱动科学，以及学术界如何系统性低估了知识的“泥土”。 | [中文](The-Inverted-Civilization/The-Inverted-Civilization.md) |
+| **The Inverted Civilization: The True Engine of Human Progress Has Never Been "Science"**<br>**被倒置的文明：人类进步的真正引擎，从来不是“科学”** | A critique of knowledge production: why practice precedes theory, production drives science, and academia has systematically undervalued the "soil" of human knowledge, and why the Needham Question itself is a flawed question.<br>对知识生产方式的批判：为什么实践先于理论、生产驱动科学，以及学术界如何系统性低估了知识的“泥土”，以及为什么“李约瑟难题”本身就是一个错误的问题。 | [中文](The-Inverted-Civilization/The-Inverted-Civilization.md) |
 ---
 
 ## License | 许可证
