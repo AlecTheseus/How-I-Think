@@ -1,20 +1,20 @@
 # How-I-Think
 
-> Cognitive toolkit distilled from years of reading, thinking, and hands-on practice.
+> How I think, learn, and make sense of the world — a collection of my intellectual explorations, mental models, and evolving perspectives.
 >
-> 从多年阅读、思考和实践中提炼出的认知工具包。
+> 我如何思考、学习和理解这个世界 —— 一份关于思想探索、思维模型和不断演化的视角的合集。
 
 ## Introduction | 项目介绍
 
-This repository is a collection of articles documenting my cognitive toolkit — frameworks, methods, and mental models refined through years of reading, thinking, and practical application.
+This repository is where I document my intellectual journey — a space for exploring how the world works, how we think, and how we can see things differently. Here you'll find reflections on learning, abstractions of complex ideas, critiques of conventional wisdom, and essays that challenge assumptions.
 
-The goal is simple: to transform vague intuition into precise, actionable systems. Each article follows a modular structure, making complex concepts accessible and reusable.
+My interests are wide-ranging and evolving. What unites these articles is a commitment to deep thinking, rigorous analysis, and the pursuit of clarity. This is not a static collection but an ongoing conversation with myself and the world.
 
 ---
 
-本仓库是我的认知工具包合集，记录了通过多年阅读、思考和实践提炼出的框架、方法和思维模型。
+本仓库记录了我的思想探索之旅 —— 一个探索世界运行方式、人类思维模式以及如何以不同视角看待事物的空间。在这里，你会看到关于学习的思考、对复杂概念的抽象、对传统智慧的批判，以及挑战既定假设的文章。
 
-目标很简单：将模糊的直觉转化为精确、可操作的系统。每篇文章都采用模块化结构，让复杂概念变得清晰易懂且可复用。
+我的兴趣广泛且不断演化。这些文章的共同点在于对深度思考的执着、严谨的分析态度，以及对清晰认知的追求。这不是一个静态的合集，而是一场与自我、与世界持续进行的对话。
 
 ---
 
